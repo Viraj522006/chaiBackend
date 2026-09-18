@@ -1,0 +1,24 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a backend project for study backend in js",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/Viraj522006/chaiBackend#readme",
+  "bugs": {
+    "url": "https://github.com/Viraj522006/chaiBackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viraj522006/chaiBackend.git"
+  },
+  "license": "ISC",
+  "author": "viraj shinde",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
