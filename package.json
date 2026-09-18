@@ -1,4 +1,4 @@
-{
+ {
   "name": "chaibackend",
   "version": "1.0.0",
   "description": "a backend project for study backend in js",
@@ -6,19 +6,23 @@
     "javascript",
     "backend"
   ],
-  "homepage": "https://github.com/Viraj522006/chaiBackend#readme",
+  "homepage": "https://github.com",
   "bugs": {
-    "url": "https://github.com/Viraj522006/chaiBackend/issues"
+    "url": "https://github.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Viraj522006/chaiBackend.git"
+    "url": "git+https://github.com"
   },
   "license": "ISC",
   "author": "viraj shinde",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
